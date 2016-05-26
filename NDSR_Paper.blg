@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: NDSR_Paper.aux
+The style file: unsrt.bst
+Database file #1: biblio.bib
+Warning--entry type for "5" isn't style-file defined
+--line 41 of file biblio.bib
+Warning--entry type for "23" isn't style-file defined
+--line 235 of file biblio.bib
+Warning--entry type for "24" isn't style-file defined
+--line 244 of file biblio.bib
+Warning--entry type for "25" isn't style-file defined
+--line 251 of file biblio.bib
+Warning--entry type for "26" isn't style-file defined
+--line 258 of file biblio.bib
+Warning--entry type for "27" isn't style-file defined
+--line 265 of file biblio.bib
+Warning--empty journal in 1
+You've used 33 entries,
+            1791 wiz_defined-function locations,
+            612 strings with 8824 characters,
+and the built_in function-call counts, 5710 in all, are:
+= -- 524
+> -- 183
+< -- 0
++ -- 80
+- -- 47
+* -- 291
+:= -- 904
+add.period$ -- 99
+call.type$ -- 33
+change.case$ -- 32
+chr.to.int$ -- 0
+cite$ -- 34
+duplicate$ -- 239
+empty$ -- 660
+format.name$ -- 47
+if$ -- 1287
+int.to.chr$ -- 0
+int.to.str$ -- 33
+missing$ -- 22
+newline$ -- 167
+num.names$ -- 33
+pop$ -- 129
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 101
+stack$ -- 0
+substring$ -- 290
+swap$ -- 32
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 56
+width$ -- 35
+write$ -- 350
+(There were 7 warnings)
