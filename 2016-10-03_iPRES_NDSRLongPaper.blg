@@ -1,7 +1,7 @@
 This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: 2016-10-03_iPRES_NDSRLongPaper.aux
-The style file: acm.bst
+The style file: unsrt.bst
 Database file #1: 2016-10-03_iPRES_NDSRLongPaperBiblio.bib
 Warning--entry type for "5" isn't style-file defined
 --line 41 of file 2016-10-03_iPRES_NDSRLongPaperBiblio.bib
@@ -17,44 +17,44 @@ Warning--entry type for "27" isn't style-file defined
 --line 265 of file 2016-10-03_iPRES_NDSRLongPaperBiblio.bib
 Warning--empty journal in 1
 You've used 33 entries,
-            2253 wiz_defined-function locations,
-            692 strings with 9247 characters,
-and the built_in function-call counts, 8475 in all, are:
-= -- 825
-> -- 301
+            1791 wiz_defined-function locations,
+            611 strings with 8887 characters,
+and the built_in function-call counts, 5710 in all, are:
+= -- 524
+> -- 183
 < -- 0
-+ -- 134
-- -- 94
-* -- 558
-:= -- 1397
-add.period$ -- 98
++ -- 80
+- -- 47
+* -- 291
+:= -- 904
+add.period$ -- 99
 call.type$ -- 33
-change.case$ -- 145
+change.case$ -- 32
 chr.to.int$ -- 0
 cite$ -- 34
-duplicate$ -- 297
-empty$ -- 792
-format.name$ -- 94
-if$ -- 1773
+duplicate$ -- 239
+empty$ -- 660
+format.name$ -- 47
+if$ -- 1287
 int.to.chr$ -- 0
 int.to.str$ -- 33
 missing$ -- 22
-newline$ -- 166
-num.names$ -- 66
-pop$ -- 190
+newline$ -- 167
+num.names$ -- 33
+pop$ -- 129
 preamble$ -- 1
-purify$ -- 113
+purify$ -- 0
 quote$ -- 0
-skip$ -- 199
+skip$ -- 101
 stack$ -- 0
-substring$ -- 462
-swap$ -- 65
+substring$ -- 290
+swap$ -- 32
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 124
+type$ -- 0
 warning$ -- 1
-while$ -- 89
+while$ -- 56
 width$ -- 35
-write$ -- 334
+write$ -- 350
 (There were 7 warnings)

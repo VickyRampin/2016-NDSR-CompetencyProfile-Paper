@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.11)  30 JUN 2016 16:34
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.1)  1 JUL 2016 16:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -453,7 +453,7 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.109 
-       [2] <total_skills.png, id=132, 1055.945pt x 618.31pt>
+       [2] <total_skills.png, id=129, 1055.945pt x 618.31pt>
 File: total_skills.png Graphic file (type png)
 
 <use total_skills.png>
@@ -481,6 +481,9 @@ een already used, duplicate ignored
                    \relax 
 l.178 
        [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Overfull \hbox (1.96916pt too wide) in paragraph at lines 181--182
 []\T1/aer/m/n/9 The au-thors' fi-nal con-cern was with send-ing in-di-vid-ual e
 mails
@@ -491,9 +494,6 @@ Overfull \hbox (7.27028pt too wide) in paragraph at lines 181--182
 \T1/aer/m/n/9 to par-tic-i-pants. This de-mys-ti-fied some of the ini-tial anon
 ymity
  []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
@@ -506,7 +506,7 @@ Overfull \hbox (2.41951pt too wide) in paragraph at lines 189--190
 l skills\T1/aer/m/n/9 ; \T1/aer/m/it/9 Knowl-
  []
 
-<modal_average.png, id=169, 475.7775pt x 637.38126pt>
+<modal_average.png, id=167, 475.7775pt x 637.38126pt>
 File: modal_average.png Graphic file (type png)
  <use modal_average.png>
 Package pdftex.def Info: modal_average.png used on input line 196.
@@ -524,7 +524,7 @@ een already used, duplicate ignored
                    \relax 
 l.244 
        [5 <./total_skills.png> <./modal_average.png>]
-<tech_skills.png, id=178, 1079.03125pt x 546.04pt>
+<tech_skills.png, id=176, 1079.03125pt x 546.04pt>
 File: tech_skills.png Graphic file (type png)
  <use tech_skills.png>
 Package pdftex.def Info: tech_skills.png used on input line 252.
@@ -538,7 +538,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.269 
+l.266 
        [6]
 Overfull \hbox (1.21022pt too wide) in paragraph at lines 271--272
 \T1/aer/m/n/9 re-search op-por-tu-ni-ties, com-mu-ni-ca-tion skills, and
@@ -566,18 +566,18 @@ LaTeX Font Info:    Try loading font information for T1+aett on input line 298.
 (/usr/share/texlive/texmf-dist/tex/latex/ae/t1aett.fd
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 )
-(./2016-10-03_iPRES_NDSRLongPaper.bbl
-Overfull \hbox (55.23648pt too wide) in paragraph at lines 29--35
+(./2016-10-03_iPRES_NDSRLongPaper.bblpdfTeX warning (ext4): destination with th
+e same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.37 
+      [8]
+Overfull \hbox (55.23648pt too wide) in paragraph at lines 124--130
 \T1/aett/m/n/9 what-[]does-[]it-[]take-[]to-[]be-[]a-[]well-[]rounded-[]digital
 -[]archivist/$[]\T1/aer/m/n/9 , 
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.46 
-      [8]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
@@ -602,28 +602,27 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 305.
  ) 
 Here is how much of TeX's memory you used:
- 7607 strings out of 494985
- 110921 string characters out of 6180356
+ 7601 strings out of 494985
+ 110876 string characters out of 6180357
  210485 words of memory out of 5000000
- 10635 multiletter control sequences out of 15000+600000
- 55182 words of font info for 76 fonts, out of 8000000 for 9000
+ 10634 multiletter control sequences out of 15000+600000
+ 52246 words of font info for 71 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  41i,14n,38p,1524b,428s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmtt9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 2016-10-03_iPRES_NDSRLongPaper.pdf (9 pages, 286963 bytes).
+-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmtt9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on 2016-10-03_iPRES_NDSRLongPaper.pdf (9 pages, 268531 bytes).
 PDF statistics:
- 290 PDF objects out of 1000 (max. 8388607)
- 259 compressed objects within 3 object streams
+ 285 PDF objects out of 1000 (max. 8388607)
+ 255 compressed objects within 3 object streams
  64 named destinations out of 1000 (max. 500000)
  136 words of extra memory for PDF output out of 10000 (max. 10000000)
 
