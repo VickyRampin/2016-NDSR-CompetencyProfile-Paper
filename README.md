@@ -1,4 +1,4 @@
-# What makes a digital steward?: A competency profile based on the National Digital Stewardship Residencies
+# What makes a digital steward: A competency profile based on the National Digital Stewardship Residencies
 
 ### Summary:
 This project contains the LaTex files for building the paper "What makes a digital steward?:
