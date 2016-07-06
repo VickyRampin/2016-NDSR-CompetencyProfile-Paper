@@ -16,45 +16,45 @@ Warning--entry type for "26" isn't style-file defined
 Warning--entry type for "27" isn't style-file defined
 --line 265 of file 2016-10-03_iPRES_NDSRLongPaperBiblio.bib
 Warning--empty journal in 1
-You've used 33 entries,
+You've used 32 entries,
             1791 wiz_defined-function locations,
-            611 strings with 8887 characters,
-and the built_in function-call counts, 5710 in all, are:
-= -- 524
-> -- 183
+            606 strings with 8797 characters,
+and the built_in function-call counts, 5552 in all, are:
+= -- 509
+> -- 179
 < -- 0
-+ -- 80
-- -- 47
-* -- 291
-:= -- 904
-add.period$ -- 99
-call.type$ -- 33
-change.case$ -- 32
++ -- 78
+- -- 46
+* -- 285
+:= -- 879
+add.period$ -- 96
+call.type$ -- 32
+change.case$ -- 31
 chr.to.int$ -- 0
-cite$ -- 34
-duplicate$ -- 239
-empty$ -- 660
-format.name$ -- 47
-if$ -- 1287
+cite$ -- 33
+duplicate$ -- 229
+empty$ -- 641
+format.name$ -- 46
+if$ -- 1249
 int.to.chr$ -- 0
-int.to.str$ -- 33
-missing$ -- 22
-newline$ -- 167
-num.names$ -- 33
-pop$ -- 129
+int.to.str$ -- 32
+missing$ -- 20
+newline$ -- 162
+num.names$ -- 32
+pop$ -- 124
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 101
+skip$ -- 99
 stack$ -- 0
 substring$ -- 290
-swap$ -- 32
+swap$ -- 31
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 56
-width$ -- 35
-write$ -- 350
+while$ -- 55
+width$ -- 34
+write$ -- 338
 (There were 7 warnings)
