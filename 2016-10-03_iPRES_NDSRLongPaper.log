@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.11)  7 JUL 2016 09:53
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.1)  15 JUL 2016 10:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -544,6 +544,11 @@ Overfull \hbox (1.21022pt too wide) in paragraph at lines 271--272
 \T1/aer/m/n/9 re-search op-por-tu-ni-ties, com-mu-ni-ca-tion skills, and
  []
 
+
+Overfull \hbox (9.93495pt too wide) in paragraph at lines 277--278
+\T1/aer/m/n/9 quires that they main-tain cur-rent and ex-pert knowl-
+ []
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
@@ -570,8 +575,8 @@ File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 e same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 
-      [8]
+l.43 \bibitem{7}
+                 [8]
 Overfull \hbox (55.23648pt too wide) in paragraph at lines 124--130
 \T1/aett/m/n/9 what-[]does-[]it-[]take-[]to-[]be-[]a-[]well-[]rounded-[]digital
 -[]archivist/$[]\T1/aer/m/n/9 , 
@@ -603,12 +608,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 305.
  ) 
 Here is how much of TeX's memory you used:
  7599 strings out of 494985
- 110865 string characters out of 6180356
+ 110865 string characters out of 6180357
  210460 words of memory out of 5000000
  10633 multiletter control sequences out of 15000+600000
  52246 words of font info for 71 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 41i,14n,38p,1524b,428s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,14n,38p,1524b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fo
@@ -619,7 +624,7 @@ nts/cm/cmtt9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 2016-10-03_iPRES_NDSRLongPaper.pdf (9 pages, 268447 bytes).
+Output written on 2016-10-03_iPRES_NDSRLongPaper.pdf (9 pages, 268378 bytes).
 PDF statistics:
  283 PDF objects out of 1000 (max. 8388607)
  253 compressed objects within 3 object streams
