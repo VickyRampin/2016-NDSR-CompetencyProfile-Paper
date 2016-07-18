@@ -9,5 +9,8 @@ Digital stewardship is a rapidly maturing field within library and information s
 
 This study sought to fill that gap by creating a profile of the skills, responsibilities, and knowledge areas that define competency in digital stewardship, based on three key datasets: 1) literature in the field through a literature review (to define the scope of the profile), 2) NDSR project descriptions, qualitatively analyzed to get a baseline understanding of expected competencies 3) the results of a survey given to current and past NDSR residents, quantitively evaluated to illustrate competencies’ importance to professional success.
 
-### Thanks & Acknowledgements
+### Supporting Materials & Data:
+The authors welcome and encourage others to extend and reproduce their study, and have made all research materials, including the survey instrument and data, freely available at the following URL: https://osf.io/zndwq/
+
+### Thanks & Acknowledgements:
 The authors want to thank the NDSR community for their participation and support in conducting our study, without which it would not have been possible. 
