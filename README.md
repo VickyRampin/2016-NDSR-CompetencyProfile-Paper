@@ -2,7 +2,7 @@
 
 ### Summary:
 This project contains the LaTex files for building the paper "What makes a digital steward?:
- A competency profile based on the National Digital Stewardship Residencies" by [Karl-Rainer Blumenthal](http://landscapelibrarian.com/), [Peggy Griesinger](https://www.linkedin.com/in/peggy-griesinger-413a2173), [Julia Kim](https://twitter.com/jy_kim29), [Shira Peltzman](https://www.linkedin.com/in/shira-peltzman-82389114), and [Vicky Steeves](www.victoriaisteeves.com).
+ A competency profile based on the National Digital Stewardship Residencies" by [Karl-Rainer Blumenthal](http://landscapelibrarian.com/), [Peggy Griesinger](https://www.linkedin.com/in/peggy-griesinger-413a2173), [Julia Kim](https://twitter.com/jy_kim29), [Shira Peltzman](https://www.linkedin.com/in/shira-peltzman-82389114), and [Vicky Steeves](www.vickysteeves.com).
 
 ### Introduction:
 Digital stewardship is a rapidly maturing field within library and information science. This domain engages in the active and long-term management of digital objects towards their preservation for and unencumbered access by future generations. Although this field is growing quickly, it lacks a compentancy profile for practioners that is commonplace in LIS (example: the American Library Association's [Core Compentencies of Librarianship](http://www.ala.org/educationcareers/sites/ala.org.educationcareers/files/content/careers/corecomp/corecompetences/finalcorecompstat09.pdf)). 
