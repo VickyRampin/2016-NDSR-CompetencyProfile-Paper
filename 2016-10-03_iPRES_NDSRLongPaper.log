@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.18)  20 JUL 2016 12:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.18)  30 SEP 2016 17:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -407,24 +407,13 @@ Overfull \hbox (1.21022pt too wide) in paragraph at lines 270--271
 \T1/aer/m/n/9 re-search op-por-tu-ni-ties, com-mu-ni-ca-tion skills, and
  []
 
-
-Overfull \hbox (9.93495pt too wide) in paragraph at lines 276--277
-\T1/aer/m/n/9 quires that they main-tain cur-rent and ex-pert knowl-
- []
-
 [7 <./tech_skills.png>]
-Overfull \hbox (2.42035pt too wide) in paragraph at lines 288--289
-\T1/aer/m/n/9 stew-ard-ship work. These are: \T1/aer/m/it/9 For-mat mi-gra-tion
-/transcoding\T1/aer/m/n/9 ,
- []
-
-
-Overfull \hbox (5.07228pt too wide) in paragraph at lines 288--289
+Overfull \hbox (5.07228pt too wide) in paragraph at lines 286--287
 \T1/aer/m/it/9 Repos-i-tory man-age-ment\T1/aer/m/n/9 , \T1/aer/m/it/9 Meta-dat
 a doc-u-men-ta-tion\T1/aer/m/n/9 , and \T1/aer/m/it/9 Schol-
  []
 
-LaTeX Font Info:    Try loading font information for T1+aett on input line 297.
+LaTeX Font Info:    Try loading font information for T1+aett on input line 295.
 
 (/usr/share/texlive/texmf-dist/tex/latex/ae/t1aett.fd
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
@@ -462,7 +451,7 @@ nts/cm/cmtt9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 2016-10-03_iPRES_NDSRLongPaper.pdf (9 pages, 256433 bytes).
+Output written on 2016-10-03_iPRES_NDSRLongPaper.pdf (9 pages, 256311 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  54 compressed objects within 1 object stream
